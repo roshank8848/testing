@@ -22,3 +22,5 @@ git merge <source_branch>
 
 ##
 Sujan P
+## Contributor
+* Sujan
