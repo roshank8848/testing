@@ -20,5 +20,7 @@ complete `git merge develop`
 ```shell
 git merge <source_branch>
 
+##
+Sujan P
 ## Contributor
 * Sujan
